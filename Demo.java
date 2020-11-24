@@ -11,6 +11,8 @@ public class Demo {
         }
         int total = bonus + current;
 
-        System.out.println(bonus); System.out.println(current);System.out.println(total);
+        System.out.println(bonus);
+        System.out.println(current);
+        System.out.println(total);
     }
 }
